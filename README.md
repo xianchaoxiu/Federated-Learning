@@ -6,7 +6,6 @@ I am currently working on distributed/decentralized optimization problems with d
 - [Learning Methods](#Learning_Methods)
 - [Applications](#Applications)
 - [Journals](#Journals)
-- [Tools](#Tools)
 
     
 <strong> Last Update: 2023/11/20 </strong>
@@ -120,7 +119,3 @@ I am currently working on distributed/decentralized optimization problems with d
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
 - IEEE Transactions on Signal Processing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
 - IEEE Transactions on Automatic Control [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)]
-
-
-
-
