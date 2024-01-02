@@ -1,5 +1,5 @@
 # Distributed-Optimization
-I am currently working on distributed/decentralized optimization problems on Riemannian manifolds.
+I am currently working on distributed/decentralized optimization problems with different constraints.
 - [Surveys](#Surveys)
 - [Feasible Methods](#Feasible_Methods)
 - [Infeasible Methods](#infeasible_Methods)
