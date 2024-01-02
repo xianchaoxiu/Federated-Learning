@@ -15,12 +15,10 @@ I am currently working on distributed/decentralized optimization problems with d
 <a name="Surveys" />
 
 ## Surveys
-- [2023] An Introduction to Optimization on Smooth Manifolds, Cambridge University Press [[Book](https://www.nicolasboumal.net/book/)] [[Video](https://www.nicolasboumal.net/book/index.html#lectures)]
 - [2023] Communication-Efficient Distributed Learning: An Overview, IEEE JSAC  [[Paper](https://ieeexplore.ieee.org/document/10038471)]
 - [2022] Federated Learning: A Signal Processing Perspective, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9770266)]
 - [2021] A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions, ACM Computing Surveys [[Paper](https://dl.acm.org/doi/abs/10.1145/3460427)]
 - [2021] A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9220780)]
-- [2020] A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China [[Paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
 - [2020] First-order and Stochastic Optimization Methods for Machine Learning, Springer [[Book](https://link.springer.com/content/pdf/10.1007/978-3-030-39568-1.pdf)]
 - [2020] Secure, Privacy-Preserving and Federated Machine Learning in Medical Imaging, Nature Machine Intelligence [[Paper](https://www.nature.com/articles/s42256-020-0186-1)]
 - [2020] Federated Learning: Challenges, Methods, and Future Directions, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/9084352)]
@@ -29,7 +27,6 @@ I am currently working on distributed/decentralized optimization problems with d
 - [2019] Federated Machine Learning: Concept and Applications, ACM Transactions on Intelligent Systems and Technology  [[Paper](https://dl.acm.org/doi/abs/10.1145/3298981)]
 - [2018] A Review of Distributed Algorithms for Principal Component Analysis, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/8425655)]
 - [2011] Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers, Foundations and Trends in Machine Learning [[Paper](https://www.nowpublishers.com/article/Details/MAL-016)]
-- [2008] Optimization Algorithms on Matrix Manifolds, Princeton University Press [[Book](https://press.princeton.edu/absil)]
 
 
 <a name="Feasible_Methods" />
@@ -122,10 +119,8 @@ I am currently working on distributed/decentralized optimization problems with d
 ## Journals
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
 - IEEE Transactions on Signal Processing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
-- Journal of Scientific Computing  [[Link](https://www.springer.com/journal/10915)]
+- IEEE Transactions on Automatic Control [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)]
 
-<a name="Tools" />
 
-## Tools
-- Manopt: A Matlab Toolbox for Optimization on Manifolds  [[Link](https://www.manopt.org/)]
-- STOP: A Toolbox for Stiefel Manifold Optimization [[Link](https://stmopt.gitee.io/)]
+
+
