@@ -4,7 +4,7 @@ I am currently working on distributed/decentralized optimization problems in IoT
 - [Distributed Learning](#Distributed_Learning)
 - [Federated Learning](#Federated_Learning)
 - [Applications](#Applications)
-- [Journals](#Journals)
+- [Links](#Links)
 
     
 <strong> Last Update: 2023/11/20 </strong>
@@ -68,9 +68,15 @@ I am currently working on distributed/decentralized optimization problems in IoT
 
 
 
-<a name="Journals" />
+<a name="Links" />
 
-## Journals
+## Links
+
+### Journals
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
 - IEEE Transactions on Signal Processing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
 - IEEE Transactions on Automatic Control [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)]
+
+### Tools
+- Awesome Federated Machine Learning  [[Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)] 
+- Practicing Federated Learning  [[Link](https://github.com/FederatedAI/Practicing-Federated-Learning)] 
