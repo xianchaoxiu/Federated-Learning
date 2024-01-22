@@ -1,4 +1,4 @@
-# Distributed-Optimization
+# Distributed Optimization
 I am currently working on distributed/decentralized optimization problems in IoT Networks.
 - [Surveys](#Surveys)
 - [Distributed Learning](#Distributed_Learning)
