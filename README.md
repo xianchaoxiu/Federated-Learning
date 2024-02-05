@@ -64,8 +64,25 @@ I am currently working on distributed/decentralized optimization problems in IoT
 <a name="Applications" />
 
 ## Applications
-- [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
 
+### Anomaly Detection
+- [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
+- [2022] Security and Privacy-Enhanced Federated Learning for Anomaly Detection in IoT Infrastructures, IEEE TII [[Paper](https://ieeexplore.ieee.org/abstract/document/9522027)]
+- [2022] Federated-Learning-Based Anomaly Detection for IoT Security Attacks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9424138)]
+
+### One-Bit Compressive Sensing
+
+- [2023] Communication-Efficient Decentralized Federated Learning via One-Bit Compressive Sensing, arXiv [[Paper](https://arxiv.org/abs/2308.16671)]
+- [2023] 1-Bit Compressive Sensing for Efficient Federated Learning Over the Air, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/9912341)]
+- [2022] Computing One-Bit Compressive Sensing via Double-Sparsity Constrained Optimization, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9729395)] [[Matlab](https://github.com/ShenglongZhou/GPSP)]
+- [2022] One-Bit Compressive Sensing: Can We Go Deep and Blind?, IEEE SPL  [[Paper](https://ieeexplore.ieee.org/abstract/document/9812512)]
+- [2020] Model-Based Deep Learning for One-Bit Compressive Sensing, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9187438)]
+- [2018] A survey on one-bit compressed sensing: Theory and applications, Frontiers of Computer Science  [[Paper](https://link.springer.com/article/10.1007/s11704-017-6132-7)]
+- [2016] One-Bit Compressive Sensing With Norm Estimation, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7434599)] 
+- [2014] Efficient Algorithms for Robust One-bit Compressive Sensing, ICML [[Paper](http://proceedings.mlr.press/v32/zhangc14.html)]
+- [2013] Robust 1-Bit Compressive Sensing via Binary Stable Embeddings of Sparse Vectors, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/6418031)] 
+- [2012] Robust 1-bit Compressive Sensing Using Adaptive Outlier Pursuit, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/6178284)] 
+- [2008] 1-Bit Compressive Sensing, IEEE CISS  [[Paper](https://ieeexplore.ieee.org/abstract/document/4558487)]
 
 
 <a name="Links" />
