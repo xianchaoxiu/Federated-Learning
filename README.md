@@ -1,22 +1,27 @@
-# Distributed Optimization
-I am currently working on distributed/decentralized optimization problems in IoT Networks.
+# Federated Learning
+I am currently working on federated learning problems on Riemannian manifolds.
 - [Surveys](#Surveys)
-- [Distributed Learning](#Distributed_Learning)
-- [Federated Learning](#Federated_Learning)
+- [Riemannian Optimization](#Riemannian_Optimization)
+- [Distributed Optimization](#Distributed_Optimization)
 - [Applications](#Applications)
 - [Links](#Links)
 
     
-<strong> Last Update: 2023/11/20 </strong>
+<strong> Last Update: 2024/2/5 </strong>
 
 
 <a name="Surveys" />
 
 ## Surveys
 - [2023] Communication-Efficient Distributed Learning: An Overview, IEEE JSAC  [[Paper](https://ieeexplore.ieee.org/document/10038471)]
+- [2023] 黎曼流形上的无约束优化及其应用, 厦门大学学报  [[Paper](https://kns.cnki.net/kcms2/article/abstract?v=3IEynGI71r9A3umXv4o2sZhoF3qLk5YUcx3c2GNjs5rSheEMx2meSgFCY7NKfgcyc1aC6vd1gdWS-lWub8p_ZhBm4vyHHQSTifJeqxaS65WJOcBqh8dlLRS39EeGIo3MelK3mDKmInZ7IoLN2qy65w==&uniplatform=NZKPT&language=CHS)]
+- [2023] An Introduction to Optimization on Smooth Manifolds, Cambridge University Press [[Book](https://www.nicolasboumal.net/book/)] [[Video](https://www.nicolasboumal.net/book/index.html#lectures)]
 - [2022] Federated Learning: A Signal Processing Perspective, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9770266)]
 - [2021] A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions, ACM Computing Surveys [[Paper](https://dl.acm.org/doi/abs/10.1145/3460427)]
 - [2021] A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9220780)]
+- [2021] Riemannian Optimization and Its Applications, Springer  [[Book](https://link.springer.com/book/10.1007/978-3-030-62391-3)]
+- [2020] 黎曼流形优化及其应用，科学出版社  [[Book](https://item.jd.com/12912482.html)] 
+- [2020] A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China [[Paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
 - [2020] First-order and Stochastic Optimization Methods for Machine Learning, Springer [[Book](https://link.springer.com/content/pdf/10.1007/978-3-030-39568-1.pdf)]
 - [2020] Secure, Privacy-Preserving and Federated Machine Learning in Medical Imaging, Nature Machine Intelligence [[Paper](https://www.nature.com/articles/s42256-020-0186-1)]
 - [2020] Federated Learning: Challenges, Methods, and Future Directions, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/9084352)]
@@ -25,11 +30,60 @@ I am currently working on distributed/decentralized optimization problems in IoT
 - [2019] Federated Machine Learning: Concept and Applications, ACM Transactions on Intelligent Systems and Technology  [[Paper](https://dl.acm.org/doi/abs/10.1145/3298981)]
 - [2018] A Review of Distributed Algorithms for Principal Component Analysis, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/8425655)]
 - [2011] Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers, Foundations and Trends in Machine Learning [[Paper](https://www.nowpublishers.com/article/Details/MAL-016)]
+- [2008] Optimization Algorithms on Matrix Manifolds, Princeton University Press [[Book](https://press.princeton.edu/absil)]
 
 
-<a name="Distributed_Learning" />
+<a name="Riemannian_Optimization" />
 
-## Distributed Learning
+## Riemannian Optimization
+
+
+### Feasible Algorithms
+- [2021] Multipliers Correction Methods for Optimization Problems Over the Stiefel Manifold, CSIAM Transactions on Applied Mathematics [[Paper](https://www.global-sci.org/intro/article_detail/csiam-am/19448.html)] [[Matlab](https://stmopt.gitee.io/algorithm_description/ProxOrth_code.html)]
+- [2018] A New First-Order Algorithmic Framework for Optimization Problems with Orthogonality Constraints, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/16M1098759)] [[Matlab](https://www.mathworks.com/matlabcentral/fileexchange/71726-foforth)]
+- [2015] A Framework of Constraint Preserving Update Schemes for Optimization on Stiefel Manifold, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-014-0816-7)]
+- [2013] A Feasible Method for Optimization With Orthogonality Constraints, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-012-0584-1)]
+- [2012] Projection-like retractions on matrix manifolds, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/100802529)]
+- [2008] Steepest Descent Algorithms for Optimization Under Unitary Matrix Constraint, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/4436033/)]
+- [2007] Trust-region methods on Riemannian manifolds, Foundations of Computational Mathematics [[Paper](https://link.springer.com/article/10.1007/s10208-005-0179-9)]
+- [2005] Learning Algorithms Utilizing Quasi-Geodesic Flows on the Stiefel Manifold, Neurocomputing [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231205001128)]
+- [2002] Optimization Algorithms Exploiting Unitary Constraints, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/984753)]
+- [1998] The Geometry of Algorithms With Orthogonality Constraints, SIAM Journal on Matrix Analysis and Applications [[Paper](https://epubs.siam.org/doi/abs/10.1137/S0895479895290954)]
+
+
+### Infeasible Algorithms
+- [2023] A Riemannian Smoothing Steepest Descent Method for Non-Lipschitz Optimization on Submanifolds, Mathematics of Operations Research  [[Paper](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.0286)]
+- [2023] An Exact Penalty Approach for Optimization with Nonnegative Orthogonality Constraints, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-022-01794-8)]
+- [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)] [[Matlab](https://github.com/miskcoo/almssn)]
+- [2022] Riemannian Stochastic Proximal Gradient Methods for Nonsmooth Optimization Over the Stiefel Manifold, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586695)]
+- [2022] A Manifold Inexact Augmented Lagrangian Method for Nonsmooth Optimization on Riemannian Submanifolds in Euclidean Space, IMA Journal of Numerical Analysis [[Paper](https://academic.oup.com/imajna/article-abstract/43/3/1653/6590238)] [[Matlab](https://github.com/KKDeng/mialm_code_share)]
+- [2022] A Class of Smooth Exact Penalty Function Methods for Optimization Problems With Orthogonality Constraints, Optimization Methods and Software [[Paper](https://www.tandfonline.com/doi/abs/10.1080/10556788.2020.1852236?journalCode=goms20)] [[Matlab](https://stmopt.gitee.io/algorithm_description/PenCF_code.html)]
+- [2022] Fast and Accurate Optimization on the Orthogonal Manifold Without Retraction, International Conference on Artificial Intelligence and Statistics [[Paper](https://proceedings.mlr.press/v151/ablin22a)]
+- [2021] Exact Penalty Function for L2,1 Norm Minimization Over the Stiefel Manifold, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/20M1354313)]  [[Matlab](https://stmopt.gitee.io/algorithm_description/PenCPG_code.html)]
+- [2021] Majorization-Minimization on the Stiefel Manifold With Application to Robust Sparse PCA, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9354027)]
+- [2021] Clustering by Orthogonal NMF Model and Non-Convex Penalty Optimization, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9508841)]
+- [2020] Proximal Gradient method for Nonsmooth Optimization Over the Stiefel Manifold, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/18M122457X)] [[Matlab](https://github.com/chenshixiang/ManPG)]
+- [2019] Parallelizable Algorithms for Optimization Problems With Orthogonality Constraints, SIAM Journal on Scientific Computing [[Paper](https://epubs.siam.org/doi/abs/10.1137/18M1221679)] [[Matlab](https://www.mathworks.com/matlabcentral/fileexchange/71728-pcal)]
+- [2019] Structured Quasi-Newton Methods for Optimization With Orthogonality Constraints, SIAM Journal on Scientific Computing [[Paper](https://epubs.siam.org/doi/abs/10.1137/18M121112X)]
+- [2018] Adaptive Quadratically Regularized Newton Method for Riemannian Optimization, SIAM Journal on Matrix Analysis and Applications [[Paper](https://epubs.siam.org/doi/abs/10.1137/17M1142478)]
+- [2018] A New First-Order Algorithmic Framework for Optimization Problems With Orthogonality Constraints, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/16M1098759)] [[Matlab](https://www.mathworks.com/matlabcentral/fileexchange/71726-foforth)]
+- [2014] A Splitting Method for Orthogonality Constrained Problems, Journal of Scientific Computing [[Paper](https://link.springer.com/article/10.1007/s10915-013-9740-x)]
+
+  
+
+### Learning Algorithms
+- [2023] Learning to Optimize on Riemannian Manifolds, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9925104)] [[Python](https://github.com/zhigao2017/learningriemannianoptimization)]
+- [2021] Orthogonal Deep Neural Networks, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8877742)] [[Python](https://github.com/Gorilla-Lab-SCUT/OrthDNNs)]
+- [2020] Learning to Optimize on SPD Manifolds, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Learning_to_Optimize_on_SPD_Manifolds_CVPR_2020_paper.html)] [[Python](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
+- [2018] Can We Gain More from Orthogonality Regularizations in Training Deep Networks?  NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/bf424cb7b0dea050a42b9739eb261a3a-Abstract.html)]  [[Python](https://github.com/VITA-Group/Orthogonality-in-CNNs)]
+
+
+
+<a name="Distributed_Optimization" />
+
+## Distributed Optimization
+
+### Distributed Algorithms
 - [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[Paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[C](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[Python](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
 - [2022] Distributed Adaptive Newton Methods with Global Superlinear Convergence, Automatica [[Paper](https://www.sciencedirect.com/science/article/pii/S0005109821006865)]
@@ -49,9 +103,7 @@ I am currently working on distributed/decentralized optimization problems in IoT
 - [2010] Distributed Stochastic Subgradient Projection Algorithms for Convex Optimization, Journal of Optimization Theory and Applications [[Paper](https://link.springer.com/article/10.1007/s10957-010-9737-7)]
 
 
-<a name="Federated Learning" />
-
-## Federated Learning
+### Federated Algorithms
 - [2023] Decentralized Federated Averaging, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9850408)]
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[Matlab](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[Matlab](https://github.com/ShenglongZhou/FedGiA)]
@@ -65,24 +117,21 @@ I am currently working on distributed/decentralized optimization problems in IoT
 
 ## Applications
 
+### Sparse Representation
+- [2023] Discriminative subspace learning via optimization on Riemannian manifold, Pattern Recognition [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001504)] [[Matlab](https://github.com/ncclabsustech/MODA-algorithm)]
+- [2022] Trace Lasso Regularization for Adaptive Sparse Canonical Correlation Analysis via Manifold Optimization Approach, IEEE TKDE  [[Paper](https://ieeexplore.ieee.org/document/9187560)] [[Matlab](https://github.com/KKDeng/ASCCA)]
+- [2021] Robust Low-Rank Matrix Completion via an Alternating Manifold Proximal Gradient Continuation Method, IEEE TSP  [[Paper](https://ieeexplore.ieee.org/abstract/document/9406364)]
+- [2020] An Alternating Manifold Proximal Gradient Method for Sparse Principal Component Analysis and Sparse Canonical Correlation Analysis, INFORMS Journal on Optimization [[Paper](https://pubsonline.informs.org/doi/abs/10.1287/ijoo.2019.0032)] [[Matlab](https://github.com/chenshixiang)]
+- [2019] Solving Partial Least Squares Regression via Manifold Optimization Approaches, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/8408735)] [[Matlab](https://github.com/Haoran2014/PLSR_RM)]
+
+
 ### IoT Anomaly Detection
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
+- [2023] Communication-Efficient Decentralized Federated Learning via One-Bit Compressive Sensing, arXiv [[Paper](https://arxiv.org/abs/2308.16671)]
+- [2023] 1-Bit Compressive Sensing for Efficient Federated Learning Over the Air, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/9912341)]
 - [2022] Federated-Learning-Based Anomaly Detection for IoT Security Attacks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9424138)]
 - [2021] FedU: A Unified Framework for Federated Multi-Task Learning with Laplacian Regularization, arXiv [[Paper](https://arxiv.org/abs/2102.07148)] [[Python](https://github.com/dual-grp/FedU_FMTL)]
 
-### One-Bit Compressive Sensing
-
-- [2023] Communication-Efficient Decentralized Federated Learning via One-Bit Compressive Sensing, arXiv [[Paper](https://arxiv.org/abs/2308.16671)]
-- [2023] 1-Bit Compressive Sensing for Efficient Federated Learning Over the Air, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/9912341)]
-- [2022] Computing One-Bit Compressive Sensing via Double-Sparsity Constrained Optimization, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9729395)] [[Matlab](https://github.com/ShenglongZhou/GPSP)]
-- [2022] One-Bit Compressive Sensing: Can We Go Deep and Blind?, IEEE SPL  [[Paper](https://ieeexplore.ieee.org/abstract/document/9812512)]
-- [2020] Model-Based Deep Learning for One-Bit Compressive Sensing, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9187438)]
-- [2018] A survey on one-bit compressed sensing: Theory and applications, Frontiers of Computer Science  [[Paper](https://link.springer.com/article/10.1007/s11704-017-6132-7)]
-- [2016] One-Bit Compressive Sensing With Norm Estimation, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7434599)] 
-- [2014] Efficient Algorithms for Robust One-bit Compressive Sensing, ICML [[Paper](http://proceedings.mlr.press/v32/zhangc14.html)]
-- [2013] Robust 1-Bit Compressive Sensing via Binary Stable Embeddings of Sparse Vectors, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/6418031)] 
-- [2012] Robust 1-bit Compressive Sensing Using Adaptive Outlier Pursuit, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/6178284)] 
-- [2008] 1-Bit Compressive Sensing, IEEE CISS  [[Paper](https://ieeexplore.ieee.org/abstract/document/4558487)]
 
 
 <a name="Links" />
@@ -93,7 +142,12 @@ I am currently working on distributed/decentralized optimization problems in IoT
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
 - IEEE Transactions on Signal Processing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
 - IEEE Transactions on Automatic Control [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)]
+- Journal of Machine Learning Research [[Link](https://jmlr.org/)]
+- Journal of Scientific Computing  [[Link](https://www.springer.com/journal/10915)]
 
 ### Tools
 - Awesome Federated Machine Learning  [[Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)] 
-- Practicing Federated Learning  [[Link](https://github.com/FederatedAI/Practicing-Federated-Learning)] 
+- Practicing Federated Learning  [[Link](https://github.com/FederatedAI/Practicing-Federated-Learning)]
+- Manopt: A Matlab Toolbox for Optimization on Manifolds  [[Link](https://www.manopt.org/)]
+- STOP: A Toolbox for Stiefel Manifold Optimization [[Link](https://stmopt.gitee.io/)]
+- Auto-UFSTool: An Automatic MATLAB Toolbox for Unsupervised Feature Selection [[Link](https://github.com/farhadabedinzadeh/AutoUFSTool)]
