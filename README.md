@@ -65,7 +65,7 @@ I am currently working on distributed/decentralized optimization problems in IoT
 
 ## Applications
 
-### Anomaly Detection
+### IoT Anomaly Detection
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
 - [2022] Security and Privacy-Enhanced Federated Learning for Anomaly Detection in IoT Infrastructures, IEEE TII [[Paper](https://ieeexplore.ieee.org/abstract/document/9522027)]
 - [2022] Federated-Learning-Based Anomaly Detection for IoT Security Attacks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9424138)]
