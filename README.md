@@ -67,8 +67,8 @@ I am currently working on distributed/decentralized optimization problems in IoT
 
 ### IoT Anomaly Detection
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
-- [2022] Security and Privacy-Enhanced Federated Learning for Anomaly Detection in IoT Infrastructures, IEEE TII [[Paper](https://ieeexplore.ieee.org/abstract/document/9522027)]
 - [2022] Federated-Learning-Based Anomaly Detection for IoT Security Attacks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9424138)]
+- [2021] FedU: A Unified Framework for Federated Multi-Task Learning with Laplacian Regularization, arXiv [[Paper](https://arxiv.org/abs/2102.07148)] [[Python](https://github.com/dual-grp/FedU_FMTL)]
 
 ### One-Bit Compressive Sensing
 
@@ -76,8 +76,6 @@ I am currently working on distributed/decentralized optimization problems in IoT
 - [2023] 1-Bit Compressive Sensing for Efficient Federated Learning Over the Air, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/9912341)]
 - [2022] Computing One-Bit Compressive Sensing via Double-Sparsity Constrained Optimization, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9729395)] [[Matlab](https://github.com/ShenglongZhou/GPSP)]
 - [2022] One-Bit Compressive Sensing: Can We Go Deep and Blind?, IEEE SPL  [[Paper](https://ieeexplore.ieee.org/abstract/document/9812512)]
-- [2022] 单比特压缩感知雷达成像关健技术的研究，中国科学技术大学 [[Paper](https://kns.cnki.net/kcms2/article/abstract?v=-0THPtffOh2hp3nldF6s5sUyiy0ixHaEC_V0IDWdfRLs5MW13-oSgHSSG6-V-3cV53D_J0lgwsniN8Y2iwZgiHgDlTFwQiifqU2_UtUPfdMOVS5gnO9o6QeK7FITrHXlUZ_M9YD9t4EMIPcuc4RBRA==&uniplatform=NZKPT&language=CHS)]
-- [2022] 单比特稀疏双极子阵列的DOA估计问题研究，南京理工大学 [[Paper](https://kns.cnki.net/kcms2/article/abstract?v=-0THPtffOh2er2OX0CmOrBuqrHKhfKcKwYlP1L_RHsWQCez3VMoOtl-fBaimI7qEHtv3qg6kTbNCNofpA4TnqKX_BgAr4Sr7gAKN_2cHyQyQzZphz1W1YZm4nLXzHFV3xyR6BGLe89LmLIauEiU6tQ==&uniplatform=NZKPT&language=CHS)]
 - [2020] Model-Based Deep Learning for One-Bit Compressive Sensing, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9187438)]
 - [2018] A survey on one-bit compressed sensing: Theory and applications, Frontiers of Computer Science  [[Paper](https://link.springer.com/article/10.1007/s11704-017-6132-7)]
 - [2016] One-Bit Compressive Sensing With Norm Estimation, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/7434599)] 
