@@ -117,7 +117,7 @@ I am currently working on federated learning problems on Riemannian manifolds.
 
 ## Applications
 
-### Sparse Representation
+### Subspace Representation
 - [2023] Discriminative subspace learning via optimization on Riemannian manifold, Pattern Recognition [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001504)] [[Matlab](https://github.com/ncclabsustech/MODA-algorithm)]
 - [2022] Trace Lasso Regularization for Adaptive Sparse Canonical Correlation Analysis via Manifold Optimization Approach, IEEE TKDE  [[Paper](https://ieeexplore.ieee.org/document/9187560)] [[Matlab](https://github.com/KKDeng/ASCCA)]
 - [2021] Robust Low-Rank Matrix Completion via an Alternating Manifold Proximal Gradient Continuation Method, IEEE TSP  [[Paper](https://ieeexplore.ieee.org/abstract/document/9406364)]
