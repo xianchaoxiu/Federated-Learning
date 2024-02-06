@@ -125,12 +125,23 @@ I am currently working on federated learning problems on Riemannian manifolds.
 - [2019] Solving Partial Least Squares Regression via Manifold Optimization Approaches, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/8408735)] [[Matlab](https://github.com/Haoran2014/PLSR_RM)]
 
 
-### IoT Anomaly Detection
+### Anomaly Detection
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
-- [2023] Communication-Efficient Decentralized Federated Learning via One-Bit Compressive Sensing, arXiv [[Paper](https://arxiv.org/abs/2308.16671)]
-- [2023] 1-Bit Compressive Sensing for Efficient Federated Learning Over the Air, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/9912341)]
 - [2022] Federated-Learning-Based Anomaly Detection for IoT Security Attacks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9424138)]
 - [2021] FedU: A Unified Framework for Federated Multi-Task Learning with Laplacian Regularization, arXiv [[Paper](https://arxiv.org/abs/2102.07148)] [[Python](https://github.com/dual-grp/FedU_FMTL)]
+
+
+### Differential Privacy
+- [2023] Privacy-Preserving Aggregation in Federated Learning: A Survey, IEEE TBDATA [[Paper](https://ieeexplore.ieee.org/abstract/document/9830997)]
+- [2023] Efficient Privacy-Preserving Stochastic Nonconvex Optimization, ICML [[Paper](https://proceedings.mlr.press/v216/wang23b.html)]
+- [2022] Gaussian Differential Privacy, Journal of the Royal Statistical Society Series B: Statistical Methodology [[Paper](https://academic.oup.com/jrsssb/article/84/1/3/7056089)]
+- [2022] Differential Privacy for Deep and Federated Learning: A Survey, IEEE Access [[Paper](https://ieeexplore.ieee.org/abstract/document/9714350)]
+- [2021] A Privacy-Preserving Federated Learning for Multiparty Data Sharing in Social IoTs, IEEE TNSE [[Paper](https://ieeexplore.ieee.org/abstract/document/9409743)]
+- [2021] Oneshot Differentially Private Top-k Selection, ICML [[Paper](https://proceedings.mlr.press/v139/qiao21b.html)] 
+- [2021] Accuracy, Interpretability, and Differential Privacy via Explainable Boosting, ICML [[Paper](http://proceedings.mlr.press/v139/nori21a.html)] 
+- [2020] Secure, Privacy-Preserving and Federated Machine Learning in Medical Imaging, Nature Machine Intelligence [[Paper](https://www.nature.com/articles/s42256-020-0186-1)] 
+- [2020] Federated Learning with Gaussian Differential Privacy, RICAI [[Paper](https://dl.acm.org/doi/abs/10.1145/3438872.3439097)] 
+- [2019] Generalized Gaussian Mechanism for Differential Privacy, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/8375673)] 
 
 
 
