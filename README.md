@@ -19,6 +19,7 @@ I am currently working on federated learning problems on Riemannian manifolds.
 - [2022] Federated Learning: A Signal Processing Perspective, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9770266)]
 - [2021] A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions, ACM Computing Surveys [[Paper](https://dl.acm.org/doi/abs/10.1145/3460427)]
 - [2021] A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9220780)]
+- [2021] Federated Machine Learning: Survey, Multi-Level Classification, Desirable Criteria and Future Directions in Communication and Networking Systems, IEEE COMST [[Paper](https://ieeexplore.ieee.org/document/9352033)]
 - [2021] Riemannian Optimization and Its Applications, Springer  [[Book](https://link.springer.com/book/10.1007/978-3-030-62391-3)]
 - [2020] 黎曼流形优化及其应用，科学出版社  [[Book](https://item.jd.com/12912482.html)] 
 - [2020] A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China [[Paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
@@ -126,9 +127,10 @@ I am currently working on federated learning problems on Riemannian manifolds.
 
 
 ### Anomaly Detection
+- [2024] Federated Supervised Principal Component Analysis, IEEE TIFS [[Paper](https://ieeexplore.ieee.org/abstract/document/10292699)]
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
 - [2022] Federated-Learning-Based Anomaly Detection for IoT Security Attacks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9424138)]
-- [2021] FedU: A Unified Framework for Federated Multi-Task Learning with Laplacian Regularization, arXiv [[Paper](https://arxiv.org/abs/2102.07148)] [[Python](https://github.com/dual-grp/FedU_FMTL)]
+- [2020] Federated Principal Component Analysis, NIPS  [[Paper](https://proceedings.neurips.cc/paper/2020/hash/47a658229eb2368a99f1d032c8848542-Abstract.html)] [[Matlab](https://www.github.com/andylamp/federated_pca)]
 
 
 ### Differential Privacy
