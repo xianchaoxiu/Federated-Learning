@@ -13,6 +13,7 @@ I am currently working on federated learning problems on Riemannian manifolds.
 <a name="Surveys" />
 
 ## Surveys
+- [2024] Trustworthy Distributed AI Systems: Robustness, Privacy, and Governance, ACM Computing Surveys  [[Paper](https://dl.acm.org/doi/abs/10.1145/3645102)]
 - [2023] Trusted AI in Multiagent Systems: An Overview of Privacy and Security for Distributed Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10251703)]
 - [2023] Privacy-Preserving Aggregation in Federated Learning: A Survey, IEEE TBDATA [[Paper](https://ieeexplore.ieee.org/abstract/document/9830997)]
 - [2023] Communication-Efficient Distributed Learning: An Overview, IEEE JSAC  [[Paper](https://ieeexplore.ieee.org/document/10038471)]
