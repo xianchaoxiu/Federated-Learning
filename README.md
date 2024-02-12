@@ -13,6 +13,8 @@ I am currently working on federated learning problems on Riemannian manifolds.
 <a name="Surveys" />
 
 ## Surveys
+- [2023] Trusted AI in Multiagent Systems: An Overview of Privacy and Security for Distributed Learning, P IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10251703)]
+- [2023] Privacy-Preserving Aggregation in Federated Learning: A Survey, IEEE TBDATA [[Paper](https://ieeexplore.ieee.org/abstract/document/9830997)]
 - [2023] Communication-Efficient Distributed Learning: An Overview, IEEE JSAC  [[Paper](https://ieeexplore.ieee.org/document/10038471)]
 - [2023] 黎曼流形上的无约束优化及其应用, 厦门大学学报  [[Paper](https://kns.cnki.net/kcms2/article/abstract?v=3IEynGI71r9A3umXv4o2sZhoF3qLk5YUcx3c2GNjs5rSheEMx2meSgFCY7NKfgcyc1aC6vd1gdWS-lWub8p_ZhBm4vyHHQSTifJeqxaS65WJOcBqh8dlLRS39EeGIo3MelK3mDKmInZ7IoLN2qy65w==&uniplatform=NZKPT&language=CHS)]
 - [2023] An Introduction to Optimization on Smooth Manifolds, Cambridge University Press [[Book](https://www.nicolasboumal.net/book/)] [[Video](https://www.nicolasboumal.net/book/index.html#lectures)]
@@ -135,8 +137,7 @@ I am currently working on federated learning problems on Riemannian manifolds.
 
 ### Differential Privacy
 - [2024] Efficient Sparse Least Absolute Deviation Regression With Differential Privacy, IEEE TIFS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379016)]
-- Stochastic privacy-preserving methods for nonconvex sparse learning, Information Sciences  [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522011161)]
-- [2023] Privacy-Preserving Aggregation in Federated Learning: A Survey, IEEE TBDATA [[Paper](https://ieeexplore.ieee.org/abstract/document/9830997)]
+- [2023] Stochastic privacy-preserving methods for nonconvex sparse learning, Information Sciences  [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522011161)]
 - [2022] Laplacian Smoothing Stochastic ADMMs With Differential Privacy Guarantees, IEEE TIFS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9762729)]
 - [2022] Multiple Strategies Differential Privacy on Sparse Tensor Factorization for Network Traffic Analysis in 5G, IEEE TII [[Paper](https://ieeexplore.ieee.org/abstract/document/9439054)]
 - [2022] Gaussian Differential Privacy, Journal of the Royal Statistical Society Series B: Statistical Methodology [[Paper](https://academic.oup.com/jrsssb/article/84/1/3/7056089)]
