@@ -1,4 +1,4 @@
-# Federated Optimization
+# Federated Learning
 I am currently working on federated learning problems on Riemannian manifolds.
 - [Surveys](#Surveys)
 - [Riemannian Optimization](#Riemannian_Optimization)
