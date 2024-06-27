@@ -89,17 +89,11 @@ I am currently working on federated learning problems on Riemannian manifolds.
 ## Distributed Optimization
 
 ### Distributed Algorithms
-- [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[Paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[C](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
-- [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[Python](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
 - [2022] Distributed Adaptive Newton Methods with Global Superlinear Convergence, Automatica [[Paper](https://www.sciencedirect.com/science/article/pii/S0005109821006865)]
 - [2022] Achieving Geometric Convergence for Distributed Optimization with Barzilai-Borwein Step Sizes, Science China Information Sciences  [[Paper](http://scis.scichina.com/en/2022/149204.pdf)]
-- [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
 - [2021] On Distributed Nonconvex Optimization: Projected Subgradient Method for Weakly Convex Problems in Networks, IEEE TAC [[Paper](https://ieeexplore.ieee.org/abstract/document/9345428)]
 - [2021] A Penalty Alternating Direction Method of Multipliers for Convex Composite Optimization Over Decentralized Networks, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9466405)]
 - [2021] Decentralized Riemannian gradient descent on the Stiefel manifold, ICML [[Paper](https://proceedings.mlr.press/v139/chen21g.html)] [[Python](https://github.com/chenshixiang/Decentralized_Riemannian_gradient_descent_on_Stiefel_manifold)]
-- [2021] Communication-Efficient Distributed Covariance Sketch, With Application to Distributed PCA, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546338)]
-- [2021] Distributed Principal Component Analysis with Limited Communication, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1680e9fa7b4dd5d62ece800239bb53bd-Abstract.html)] [[Matlab](https://github.com/IST-DASLab/QRGD)]
-- [2020] Communication-Efficient Distributed PCA by Riemannian Optimization, ICML [[Paper](https://proceedings.mlr.press/v119/huang20e.html)] [[Matlab](https://github.com/IST-DASLab/QRGD)]
 - [2017] Non-Convex Distributed Optimization, IEEE TAC [[Paper](https://ieeexplore.ieee.org/abstract/document/7807315)]
 - [2017] Communication-Efficient Learning of Deep Networks from Decentralized Data, ICML [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Python](https://github.com/AshwinRJ/Federated-Learning-PyTorch)]
 - [2016] Distributed Compressive Sensing: A Deep Learning Approach, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/7457684)]  [[Matlab](https://github.com/hamidpalangi/Distributed-Compressive-Sensing-A-Deep-Learning-Approach)] 
@@ -130,13 +124,22 @@ I am currently working on federated learning problems on Riemannian manifolds.
 - [2019] Solving Partial Least Squares Regression via Manifold Optimization Approaches, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/8408735)] [[Matlab](https://github.com/Haoran2014/PLSR_RM)]
 
 
-### Anomaly Detection
-- [2024] Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data, [[arXiv](https://arxiv.org/abs/2406.08465)]
+### Federated PCA
+- [2024] Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data, arXiv [[Paper](https://arxiv.org/abs/2406.08465)]
 - [2024] Federated Supervised Principal Component Analysis, IEEE TIFS [[Paper](https://ieeexplore.ieee.org/abstract/document/10292699)]
+- [2023] Federated Feature Selection for Horizontal Federated Learning in IoT Networks, JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/10017376)]
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
-- [2022] Federated-Learning-Based Anomaly Detection for IoT Security Attacks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9424138)]
+- [2023] Federated Learning for Sparse Principal Component Analysis, IEEE BigData [[Paper](https://ieeexplore.ieee.org/abstract/document/10386231)]
+- [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[Paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[C](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
+- [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[Python](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
+- [2022] Seeking Consensus on Subspaces in Federated Principal Component Analysis, arXiv [[Paper](https://arxiv.org/abs/2012.03461)]
+- [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
+- [2021] Fast, Scalable and Geo-distributed PCA for Big Data Analytics, IS [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526)] [[Python](https://github.com/tmadnan10/TallnWide)]
+- [2021] DeEPCA: Decentralized Exact PCA with Linear Convergence Rate, JMLR [[Paper](https://www.jmlr.org/papers/v22/21-0298.html)]
+- [2021] Communication-Efficient Distributed Covariance Sketch, With Application to Distributed PCA, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546338)]
+- [2021] Distributed Principal Component Analysis with Limited Communication, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1680e9fa7b4dd5d62ece800239bb53bd-Abstract.html)] [[Matlab](https://github.com/IST-DASLab/QRGD)]
 - [2020] Federated Principal Component Analysis, NIPS  [[Paper](https://proceedings.neurips.cc/paper/2020/hash/47a658229eb2368a99f1d032c8848542-Abstract.html)] [[Matlab](https://www.github.com/andylamp/federated_pca)]
-
+- [2020] Communication-Efficient Distributed PCA by Riemannian Optimization, ICML [[Paper](https://proceedings.mlr.press/v119/huang20e.html)] [[Matlab](https://github.com/IST-DASLab/QRGD)]
 
 ### Differential Privacy
 - [2024] Efficient Sparse Least Absolute Deviation Regression With Differential Privacy, IEEE TIFS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379016)]
