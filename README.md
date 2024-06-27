@@ -131,6 +131,7 @@ I am currently working on federated learning problems on Riemannian manifolds.
 
 
 ### Anomaly Detection
+- [2024] Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data, [[arXiv](https://arxiv.org/abs/2406.08465)]
 - [2024] Federated Supervised Principal Component Analysis, IEEE TIFS [[Paper](https://ieeexplore.ieee.org/abstract/document/10292699)]
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
 - [2022] Federated-Learning-Based Anomaly Detection for IoT Security Attacks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9424138)]
